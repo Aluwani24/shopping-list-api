@@ -1,0 +1,14 @@
+Project setup:
+
+install the follwing:
+
+npm init -y
+npm install ts-node typescript
+npm install -g nodemon
+npm install --save-dev nodemon @types/node
+
+run the Project:
+
+npm run dev
+
+repository: 
